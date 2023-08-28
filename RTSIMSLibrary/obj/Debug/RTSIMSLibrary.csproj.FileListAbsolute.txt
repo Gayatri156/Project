@@ -1,0 +1,6 @@
+D:\Manohar\PiTech_Training\IMS\RTSIMSLibrary\bin\Debug\RTSIMSLibrary.dll
+D:\Manohar\PiTech_Training\IMS\RTSIMSLibrary\bin\Debug\RTSIMSLibrary.pdb
+D:\Manohar\PiTech_Training\IMS\RTSIMSLibrary\obj\Debug\RTSIMSLibrary.csproj.AssemblyReference.cache
+D:\Manohar\PiTech_Training\IMS\RTSIMSLibrary\obj\Debug\RTSIMSLibrary.csproj.CoreCompileInputs.cache
+D:\Manohar\PiTech_Training\IMS\RTSIMSLibrary\obj\Debug\RTSIMSLibrary.dll
+D:\Manohar\PiTech_Training\IMS\RTSIMSLibrary\obj\Debug\RTSIMSLibrary.pdb
